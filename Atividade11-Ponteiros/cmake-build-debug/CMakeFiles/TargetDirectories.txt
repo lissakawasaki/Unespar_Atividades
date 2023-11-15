@@ -1,0 +1,6 @@
+C:/Users/Lissa G. Kawasaki/CLionProjects/Atividade11-Ponteiros/cmake-build-debug/CMakeFiles/Atividade11_Ponteiros.dir
+C:/Users/Lissa G. Kawasaki/CLionProjects/Atividade11-Ponteiros/cmake-build-debug/CMakeFiles/Ex2.dir
+C:/Users/Lissa G. Kawasaki/CLionProjects/Atividade11-Ponteiros/cmake-build-debug/CMakeFiles/Ex3.dir
+C:/Users/Lissa G. Kawasaki/CLionProjects/Atividade11-Ponteiros/cmake-build-debug/CMakeFiles/Ex4.dir
+C:/Users/Lissa G. Kawasaki/CLionProjects/Atividade11-Ponteiros/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lissa G. Kawasaki/CLionProjects/Atividade11-Ponteiros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
