@@ -4,10 +4,14 @@ project(Atividade11_Ponteiros C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(Atividade11_Ponteiros Ex1.c
-        ../Revisao-Prova3Bim/Ex4.c)
+        ../Revisao-Prova3Bim/Ex4.c
+        "../Atividade6 - SubRotina/Ex1.cpp")
 add_executable(Ex2 Ex2.c
-        ../Revisao-Prova3Bim/Ex4.c)
+        ../Revisao-Prova3Bim/Ex4.c
+        "../Atividade6 - SubRotina/Ex1.cpp")
 add_executable(Ex3 Ex3.c
-        ../Revisao-Prova3Bim/Ex4.c)
+        ../Revisao-Prova3Bim/Ex4.c
+        "../Atividade6 - SubRotina/Ex1.cpp")
 add_executable(Ex4 Ex4.c
-        ../Revisao-Prova3Bim/Ex4.c)
+        ../Revisao-Prova3Bim/Ex4.c
+        "../Atividade6 - SubRotina/Ex1.cpp")
