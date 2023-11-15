@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Lissa G. Kawasaki/CLionProjects/Atividade11-Ponteiros/cmake-build-debug"
+			"value" : "C:/Users/Lissa G. Kawasaki/CLionProjects/Unespar_Atividades/Atividade11-Ponteiros/cmake-build-debug"
 		},
 		{
 			"name" : "Atividade11_Ponteiros_IS_TOP_LEVEL",
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Lissa G. Kawasaki/CLionProjects/Atividade11-Ponteiros"
+			"value" : "C:/Users/Lissa G. Kawasaki/CLionProjects/Unespar_Atividades/Atividade11-Ponteiros"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Lissa G. Kawasaki/CLionProjects/Atividade11-Ponteiros/cmake-build-debug"
+			"value" : "c:/Users/Lissa G. Kawasaki/CLionProjects/Unespar_Atividades/Atividade11-Ponteiros/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -467,7 +467,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Lissa G. Kawasaki/CLionProjects/Atividade11-Ponteiros/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Lissa G. Kawasaki/CLionProjects/Unespar_Atividades/Atividade11-Ponteiros/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Lissa G. Kawasaki/CLionProjects/Atividade11-Ponteiros"
+			"value" : "C:/Users/Lissa G. Kawasaki/CLionProjects/Unespar_Atividades/Atividade11-Ponteiros"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",

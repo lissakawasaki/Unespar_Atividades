@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Revisao_Prova3Bim",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex5-Debug-b7b955bbc927ffcee0ac.json",
+					"name" : "Ex5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Revisao_Prova3Bim::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Revisao_Prova3Bim-Debug-eb0448853d73bf23e8db.json",
+					"name" : "Revisao_Prova3Bim",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Lissa G. Kawasaki/CLionProjects/Revisao-Prova3Bim/cmake-build-debug",
+		"source" : "C:/Users/Lissa G. Kawasaki/CLionProjects/Revisao-Prova3Bim"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

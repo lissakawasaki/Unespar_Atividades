@@ -1,0 +1,4 @@
+C:/Users/Lissa G. Kawasaki/CLionProjects/Revisao-Prova3Bim/cmake-build-debug/CMakeFiles/Revisao_Prova3Bim.dir
+C:/Users/Lissa G. Kawasaki/CLionProjects/Revisao-Prova3Bim/cmake-build-debug/CMakeFiles/Ex5.dir
+C:/Users/Lissa G. Kawasaki/CLionProjects/Revisao-Prova3Bim/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lissa G. Kawasaki/CLionProjects/Revisao-Prova3Bim/cmake-build-debug/CMakeFiles/rebuild_cache.dir
